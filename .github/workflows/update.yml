@@ -5,8 +5,17 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - run: wget -O beanally.csv ${{ secrets.doc_url }}
+      - run: wget -q -O beanally.csv ${{ secrets.doc_url }}
       - run: if [[ $(wc -l <beanally.csv) -le 20 ]]; then exit 1; fi
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add website changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.gh_token }}
