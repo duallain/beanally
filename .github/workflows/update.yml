@@ -1,0 +1,11 @@
+name: update data
+
+on:
+  scheudle:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: wget -O beanally.csv ${{ secrets.doc_url }}
