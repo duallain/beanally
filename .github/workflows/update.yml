@@ -15,6 +15,7 @@ jobs:
       - run: wget -q -O beanally.csv ${{ secrets.doc_url }}
       - run: if [[ $(wc -l <beanally.csv) -le 20 ]]; then exit 1; fi
       - name: Commit files
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
