@@ -693,13 +693,13 @@ MentalHealth,Alabama,Gadsden,SOUTH,"Cultivating Minds Counseling Group, LLC",htt
 MentalHealth,Alabama,Huntsville,SOUTH,Blissful Mind Behavioral Health,https://blissbh.com/
 MentalHealth,Alabama,Huntsville,SOUTH,Inner Healing Counseling,https://www.innerhealing-counseling.com/
 MentalHealth,Alabama,Montgomery,SOUTH,The Alabama Therapist,https://thealabamatherapist.com/
-MentalHealth,,,,,
+MentalHealth,#REF!,#REF!,#REF!,#REF!,#REF!
 MentalHealth,Alabama,Tuscaloosa,SOUTH,Tuscaloosa Center For Cognitive Therapy,http://www.dorisvaughansphd.com/
 MentalHealth,Alaska,,WEST ,"Alyeska Counseling Group, LLC",https://alyeskacounselinggroup.com/
 MentalHealth,Arizona,,WEST,Ayé Wellness,https://www.ayewellness.com/
 MentalHealth,Arkansas,Marion,SOUTH,Kenya R. Liddell,https://therapyforblackmen.org/therapists/arkansas/marion/kenya-r-liddell/#post_info
-MentalHealth,California,Oakland,WEST ,Amina Elfiki,https://therapywithamina.com
-MentalHealth,California,Westlake Village,WEST ,Almira Agosto,https://shiftwelltherapy.com
+MentalHealth,#REF!,#REF!,#REF!,#REF!,#REF!
+MentalHealth,#REF!,#REF!,#REF!,#REF!,#REF!
 MentalHealth,California,Hayward,WEST ,Marcelle Craig,https://therapyforblackmen.org/therapists/california/hayward/marcelle-craig/
 MentalHealth,Colorado,Denver,WEST ,Chavone L.Crespo,https://therapyforblackmen.org/therapists/colorado/denver/chavone-l-ctespo/
 MentalHealth,Connecticut,,NORTHEAST,Harmony Health Therapy,https://harmonyhealththerapy.com/
@@ -719,7 +719,7 @@ MentalHealth,Indiana,Indianapolis,MIDWEST,"Worldview Psychological Services, LLC
 MentalHealth,Iowa,Coralville,MIDWEST,"B.P.R. Therapy, Mediation & Coaching Services PLLC",https://www.psychologytoday.com/us/therapists/online-counseling/iowa/132122?sid=5ee6b0f493446&cost=7&spec=19&spec=584&ref=3&tr=ResultsName
 MentalHealth,Kansas,Wichita,MIDWEST,"Dynamic Counseling Services, LLC.",https://www.psychologytoday.com/us/therapists/online-counseling/kansas/374458?sid=5ee6b1e684adf&spec=19&spec=584&ref=7&tr=ResultsName
 MentalHealth,Kentucky,Lexington,SOUTH,"New Life Counseling Services, LLC.",https://www.psychologytoday.com/us/therapists/online-counseling/kentucky/157829?sid=5ee6b3220fe1e&spec=19&spec=584&ref=7&rec_next=1&tr=ResultsRow
-MentalHealth,Louisiana,Naperville,SOUTH,www.drtiffanysanders.com,http://www.drtiffanysanders.com/
+MentalHealth,Louisiana,Naperville,SOUTH,Tiffany Sanders,http://www.drtiffanysanders.com/
 MentalHealth,Massachusetts,Quincy,NORTHEAST,Brian T. Jones,https://therapyforblackmen.org/therapists/massachusetts/quincy/brian-t-jones-ma-lmhc/
 MentalHealth,Maine,Waterville,SOUTH,June Thornton-Marsh,https://www.psychologytoday.com/us/therapists/online-counseling/maine/104307?sid=5ee6b42738747&spec=19&spec=584&ref=12&rec_next=1&tr=ResultsName
 MentalHealth,Maryland,Baltimore,NORTHEAST,https://blackmentalhealth.com/,https://blackmentalhealth.com/
@@ -734,7 +734,7 @@ MentalHealth,Nebraska,Omaha,WEST,"Creative Counseling and Studio, LLC.",https://
 MentalHealth,Nevada,Reno and Las Vegas,WEST ,C & C Health Care Services,https://candchealthcareservices.com
 MentalHealth,New Hampshire,Dover,WEST,"Sonya Shropshire-Friel, PhD.",https://www.docshrop.com/
 MentalHealth,New Jersey,Branchburg,NORTHEAST,"CogniCare Psychological Services, LLC.",https://cognicarepsych.com/staff/jean-arlea-eriksen-lcsw/
-MentalHealth,New Mexico,Santa Fe,NORTHEAST,Shakaya McFarland,https://www.psychologytoday.com/us/therapists/racial-identity/new-mexico/415581?sid=5eeebbf9954fc&ref=2&tr=ResultsName
+MentalHealth,New Mexico,Santa Fe,WEST,Shakaya McFarland,https://www.psychologytoday.com/us/therapists/racial-identity/new-mexico/415581?sid=5eeebbf9954fc&ref=2&tr=ResultsName
 MentalHealth,New York,Brooklyn,NORTHEAST,Viva Wellness,https://www.vivawellnessnyc.com/
 MentalHealth,North Carolina,Charlotte,SOUTH,"Be Well Therapy, PLLC",https://www.bewelltherapy.org/
 MentalHealth,New York,New York City,NORTHEAST,Ibisanmi Relational Health,https://www.ibisanmi.com/
@@ -764,19 +764,19 @@ MentalHealth,US National,,NATIONAL,Therapy For Black Girls,https://therapyforbla
 MentalHealth,US National,,NATIONAL,Therapy For Black Men,https://therapyforblackgirls.com/
 MentalHealth,US National ,,NATIONAL,Safe Black Space,https://www.safeblackspace.org/
 MentalHealth,US National,,NATIONAL,LGBTQ Psychotherapists of Color (QTOC),https://www.lgbtqpsychotherapistsofcolor.com
-MentalHealth,US National,,NATIONAL,"Liberate meditation app (Made by POC, for POC)",https://liberatemeditation.com/
-MentalHealth,US National,,NATIONAL,Master Your Depression: A Black Woman's Guide to Emotional Wellness,https://soniaross.lpages.co/myd-product-page/
-MentalHealth,US National,,NATIONAL,Circle of Arms ,https://www.circleofarms.org/
-MentalHealth,US National,,NATIONAL,Melanin and Mental Health,https://www.melaninandmentalhealth.com/
-MentalHealth,US National,,NATIONAL,"Meghan Watson, Registered Psychotherapist",https://www.watson-psychotherapy.com/
-MentalHealth,US National,,NATIONAL,Sista Afya,https://linktr.ee/sistaafya
-MentalHealth,US National,,NATIONAL,Black Girl In Om,https://linktr.ee/blackgirlinom
-MentalHealth,US National,,NATIONAL,Sana Powell ,https://linktr.ee/sanapowell
-MentalHealth,US National,,NATIONAL,Alishia McCullough,https://linktr.ee/AlishiaMcCullough
-MentalHealth,US National,,NATIONAL,The Loveland Foundation ,https://thelovelandfoundation.org/
-MentalHealth,US National,,NATIONAL,Boris Lawrence Henson Foundation,https://borislhensonfoundation.org/
-MentalHealth,US National,,NATIONAL,Oshun Family Center ,https://www.oshunfamilycenter.org/
-MentalHealth,US National,,NATIONAL,How to Stop a Panic Attack: 11 Ways to Cope,https://www.healthline.com/health/how-to-stop-a-panic-attack
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
+MentalHealth,,,,,
 MentalHealth,,,,,
 MentalHealth,,,,,
 MentalHealth,,,,,
