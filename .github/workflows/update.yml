@@ -19,7 +19,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Add website changes" -a
+          git commit -m "Add website changes" -a || curl ${{ hc_url }}
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
