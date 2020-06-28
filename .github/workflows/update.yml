@@ -25,3 +25,5 @@ jobs:
         with:
           github_token: ${{ secrets.gh_token }}
           branch: main
+      - name: crontab
+        run: curl ${{ hc_url }}
