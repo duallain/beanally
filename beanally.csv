@@ -6,9 +6,13 @@ BailOut,Arkansas,,SOUTH,,
 BailOut,California,,WEST ,Anti Police-Terror Project,http://www.antipoliceterrorproject.org/donate
 BailOut,California,,WEST ,Bay Area Anti Repression Committee Bail Fund,https://rally.org/ARCbailfund
 BailOut,California,Los Angeles,WEST ,Peoples City Council Freedom Fund,https://www.gofundme.com/f/peoples-city-council-ticket-fund
+BailOut,California,Los Angeles,WEST ,Adventures to Dreams Enrichment,http://www.adventurestodreams.org/
 BailOut,California,Oakland ,WEST ,Peoples Programs,https://www.paypal.me/peoplesprograms
+BailOut,California,Oakland ,WEST ,Bring Nikko Home organized by Talia Crawford,https://www.gofundme.com/f/9b78y-free-nikko?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 BailOut,California,San Diego ,WEST ,DeDe McClure Community Bail Fund,https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet
+BailOut,California,San Diego ,WEST ,Border Angels,https://www.borderangels.org/donate.html
 BailOut,California,San Jose,WEST ,Silicon Valley DSA,https://siliconvalleydsa.org/donations/
+BailOut,California,Victorville,WEST,Social Injustice Resources,https://www.gofundme.com/f/high-desert-community-demonstration-organization?utm_source=customer&utm_medium=sms&utm_campaign=p_cp+share-sheet
 BailOut,Colorado,Denver ,WEST ,Colorado Freedom Fund,https://fundly.com/coloradofreedom?form=popup#
 BailOut,Colorado,Denver ,WEST ,Funds for Protesters Against Police Brutality,https://www.gofundme.com/f/funds-for-protesters-against-police-brutality?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet
 BailOut,Connecticut,New Haven ,NORTHEAST,Connecticut Bail Fund,http://www.ctbailfund.org/
@@ -43,8 +47,6 @@ BailOut,Minnesota,Minneapolis  ,MIDWEST ,North Star Health Collective,https://ww
 BailOut,Minnesota,Minneapolis  ,MIDWEST ,Reclaim the Block,https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2
 BailOut,Mississippi,,SOUTH,Mississippi Bail Fund Collective,https://secure.actblue.com/donate/ms-bail-fund
 BailOut,Missouri,Kansas City,MIDWEST ,One Struggle KC,https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund
-BailOut,Mississippi,,SOUTH,Mississippi Bail Fund Collective,https://secure.actblue.com/donate/ms-bail-fund
-BailOut,Missouri,Kansas City,MIDWEST ,One Struggle KC,https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund
 BailOut,Montana,,WEST,,
 BailOut,Nebraska,Omaha,MIDWEST,Nebraska Left Coalition- Neighbors for Common Good,https://www.paypal.me/neleftcoalition
 BailOut,Nevada,Las Vegas,WEST ,  Vegas Freedom Fund,https://secure.actblue.com/donate/vegasfreedomfund
@@ -59,7 +61,6 @@ BailOut,North Carolina,Durham,SOUTH,NC Community Bail Fund of Durham,https://www
 BailOut,North Carolina,Durham,SOUTH,Freedom Fighter Bond Fund,https://durhamsolidaritycenter.org/bondfund/
 BailOut,North Dakota,,MIDWEST ,,
 BailOut,Ohio,Columbus,MIDWEST ,Columbus Freedom Fund,https://csrntoledo.weebly.com/home.html
-BailOut,Ohio,Toldeo,MIDWEST ,Community Solidarity Response Network,https://www.paypal.me/csrn419
 BailOut,Ohio,Toldeo,MIDWEST ,Community Solidarity Response Network,https://www.paypal.me/csrn419
 BailOut,Oklahoma,Oklahoma City ,SOUTHWEST ,Black Lives Matter OKC,https://www.paypal.me/BLMOKC
 BailOut,Oregon,Portland,WEST ,PDX Protest Bail Fund,https://www.gofundme.com/f/pdx-protest-bail-fund
@@ -80,7 +81,6 @@ BailOut,Texas,Dallas,SOUTH,Dallas- DAARPR,https://www.gofundme.com/f/bail-fund-f
 BailOut,Texas,Dallas,SOUTH,Luke 4:18 Bail Fund,https://faithintx.org/bailfund/
 BailOut,Texas,Houston,SOUTH, Restoring Justice,https://www.restoringjustice.org/
 BailOut,Utah,Salt Lake City,WEST ,Support Protesters Arrested by SLCPD,https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd
-BailOut,Utah,Salt Lake City,WEST ,Support Protesters Arrested by SLCPD,https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd
 BailOut,Vermont,,NORTHEAST,,
 BailOut,Virginia,Richmond ,SOUTH,Richmond Community Bail Fund,https://rvabailfund.org/donate
 BailOut,Virginia,Roanoke,SOUTH,Roanoke Community Bail Fund,https://chuffed.org/project/rjs-bail-fund
@@ -93,7 +93,7 @@ BailOut,,,,,
 BailOut,Ontario,Toronto,INTERNATIONAL,Toronto Protestor Bail Fund,https://www.gofundme.com/f/toronto-protestor-bail-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 BailOut,US National,,NATIONAL,National Bail Fund Network — Community Justice Exchange,https://www.communityjusticeexchange.org/nbfn-directory
 BailOut,US National,,NATIONAL,National Bail Out Fund- FREE BLACK MAMAS,https://secure.actblue.com/donate/bmbo-covid19
-BailOut,US National,,NATIONAL,The Bail Project,https://secure.givelively.org/donate/the-bail-project
+BailOut,US National,,NATIONAL,,https://saveourplanet.org/projects/nqttcn/
 BailOut,US National,,NATIONAL,The Bail Project,https://secure.givelively.org/donate/the-bail-project
 BailOut,US National,,NATIONAL,Commuities United Against Police Brutality,https://www.cuapb.org/what_we_do
 BailOut,,,,,
@@ -156,7 +156,7 @@ BailOut,,,,,
 BailOut,,,,,
 BailOut,,,,,
 BailOut,,,,,
-BailOut,Data entered outside of this box won't be included on the website,,,,
+BailOut,,,,,
 ProBono,Alabama,,SOUTHEAST, ,tel:
 ProBono,Alaska,,WEST , ,tel:
 ProBono,Arizona,,SOUTHWEST, ,tel:
@@ -641,54 +641,54 @@ ProBono,Wisconsin,Milwaukee,WEST,Ahmad & Associates 414.221.6478,tel:4142216478
 ProBono,Wisconsin,Milwaukee,WEST,GRGB Law 414.271.1440,tel:4142711440
 ProBono,Wisconsin,Milwaukee,WEST,Grieve Law 1.414.949.1789,tel:14149491789
 ProBono,Wisconsin,Milwaukee,WEST,"Hart Powell, S.C. 1.414.271.9595",tel:14142719595
-ProBono,Wyoming,,WEST, ,
-ProBono,US National,,NATIONAL,National Lawyers Guild 1.212.679.5100,1.212.679.5100
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
-ProBono,,,, ,
+ProBono,Wyoming,,WEST, ,tel:
+ProBono,US National,,NATIONAL,National Lawyers Guild 1.212.679.5100,tel:12126795100
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
+ProBono,,,, ,tel:
 MentalHealth,Alabama,Gadsden,SOUTH,"Cultivating Minds Counseling Group, LLC",https://www.psychologytoday.com/us/therapists/cultivating-minds-counseling-group-llc-birmingham-al/284033
 MentalHealth,Alabama,Hoover,SOUTH,Chernell Bizzell-Barnett,https://magiccitycounseling.wixsite.com/magiccitycounseling/contact
 MentalHealth,Alabama,Huntsville,SOUTH,Blissful Mind Behavioral Health,https://blissbh.com/
@@ -724,6 +724,7 @@ MentalHealth,Arkansas,Little Rock ,SOUTH,Monique Randle,http://www.passionunlimi
 MentalHealth,Arkansas,Little Rock ,SOUTH,Sharita Bilson,https://www.graceplacetherapy.com/
 MentalHealth,Arkansas,Marion,SOUTH,Kenya R. Liddell,https://therapyforblackmen.org/therapists/arkansas/marion/kenya-r-liddell/#post_info
 MentalHealth,California,Alameda,WEST ,Shauna Castro-McDaniel,http://www.belovecc.com/
+MentalHealth,California,Altadena,WEST ,Nakeya T. Fields,http://ffcounseling.com/clinician-profile/nakeya/
 MentalHealth,California,Berkley ,WEST ,Alisa Vincent,http://www.alisavincentpsychotherapy.com/
 MentalHealth,California,Berkley ,WEST ,Soul Harmony Psychotherapy-Kendra F. Dunlap,https://soulharmonypsychotherapy.com/home
 MentalHealth,California,Encino,WEST ,Myeisha Brooks,https://providers.therapyforblackgirls.com/listing/myeisha-brooks-lmft/
@@ -734,6 +735,8 @@ MentalHealth,California,Inglewood,WEST ,Dr. Shena Young,http://www.embodiedtruth
 MentalHealth,California,Lake Elsinor ,WEST ,Safi Lynch,https://www.safilynchtherapeuticservices.com/
 MentalHealth,California,Long Beach,WEST ,Victoria Gardiner,https://providers.therapyforblackgirls.com/listing/victoria-gardiner-marriage-and-family-therapist-associate/
 MentalHealth,California,Long Beach,WEST ,"Macala ""Kala"" Lacy",https://www.thewellhealing.com/
+MentalHealth,California,Long Beach,WEST ,Jasmine Adams,http://www.jasmineadamslcsw.net
+MentalHealth,California,Long Beach,WEST ,Patrick Cleveland ,https://www.patrickcleveland.com
 MentalHealth,California,Los Angeles,WEST ,Astin Wangel-Brown,astinwangelbrown.wordpress.com
 MentalHealth,California,Los Angeles,WEST ,Barbara Herring,https://www.justbtherapy.com
 MentalHealth,California,Los Angeles,WEST ,Meisha Thrasher,https://www.growurpotential.org/
@@ -743,6 +746,21 @@ MentalHealth,California,Los Angeles,WEST,Black Emotional and Mental Health,https
 MentalHealth,California,Los Angeles,WEST,Anothony Sykes ,https://www.psychologytoday.com/us/therapists/adults/ca/baldwin-hills/339261?sid=5ef905403d0f2&ref=2&tr=ResultsName
 MentalHealth,California,Los Angeles,WEST,Betina Scott,https://www.psychologytoday.com/us/therapists/betina-scott-temecula-ca/445949
 MentalHealth,California,Los Angeles,WEST,Carl Wilson,https://www.covenantbehavioralhealth.org
+MentalHealth,California,Los Angeles,WEST,Ashlee Byous,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Cheráe Stovall,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Charmaine Campbell,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Divinity Sardin,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Jason Murray,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Kala Patterson,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Victor Gabriel,https://www.westmontcounseling.org
+MentalHealth,California,Los Angeles,WEST,Dr. Bree E. Cook,https://drbdavisconsulting.wordpress.com/my-prof-bio/
+MentalHealth,California,Los Angeles,WEST,Dr. Chante' DeLoach,https://www.drdeloach.com
+MentalHealth,California,Los Angeles,WEST,"Dr. Sayida Peprah, PsyD",http://sayidapeprah.synthasite.com
+MentalHealth,California,Los Angeles,WEST,Jaime Reeves,https://www.jaimereevespsychotherapy.com
+MentalHealth,California,Los Angeles,WEST,Jamaica Murphy,https://www.reviveclinical.com
+MentalHealth,California,Los Angeles,WEST,Jennifer Arceneaux,https://jenniferlaurencounseling.com
+MentalHealth,California,Los Angeles,WEST,Picoyla McCall,https://www.mvpconsultinggroup.com/home
+MentalHealth,California,Manhattan Beach ,WEST,Jasmine Rollins,https://organictherapynetwork.com
 MentalHealth,California,Oakland,WEST ,Ariana Waynes,http://www.partnersinselfgrowth.com/
 MentalHealth,California,Oakland,WEST ,Courtney Watson,http://www.doorwaytherapeutics.com/
 MentalHealth,California,Oakland,WEST ,"Darlene A. Hall, Ph.D.",http://intersectionsconsulting.com/
@@ -753,17 +771,22 @@ MentalHealth,California,Oakland,WEST ,Christina M. Winesberry,http://www.christi
 MentalHealth,California,Oakland,WEST ,Shirin Shoai,https://sitwithshirin.com/
 MentalHealth,California,Oakland,WEST ,Briahn Badelle,https://www.thriveoakland.com/
 MentalHealth,California,Oakland,WEST,National Queer and Trans Therapists of Color Network,https://www.nqttcn.com
+MentalHealth,California,Ontario ,WEST,Kim Strong,https://actfamilycounseling.com
 MentalHealth,California,Pinole,WEST ,Felisha Thomas,https://sacredpossibility.org/
+MentalHealth,California,Quartz Hill,WEST ,Dr. Zoe Shaw ,https://drzoeshaw.com
 MentalHealth,California,Rancho Cucamonga ,WEST ,Patrice N. Douglas,https://www.empirecounseling.net/
 MentalHealth,California,San Francisco ,WEST ,Natalie Bell,https://nataliebelltherapy.wixsite.com/website-1
 MentalHealth,California,San Francisco ,WEST ,Tanisha Thelemaque,https://valuesintersectingaction.com/
 MentalHealth,California,San Francisco ,WEST ,Stella Nova Psychology,https://stellanovawomen.com/
 MentalHealth,California,San Francisco ,WEST ,Quandra Chaffers,https://www.sasstherapy.com/
 MentalHealth,California,Santa Monica ,WEST ,Dominique Gillis,https://www.therapyincolorla.com/
+MentalHealth,California,Santa Monica ,WEST ,Soroya Baachus,https://psychiatryunplugged.com
 MentalHealth,California,Sherman Oaks,WEST,Women of Color Therapy Inc.,https://woctherapy.com/
+MentalHealth,California,Sherman Oaks,WEST,Kelly A. Williams,https://www.drkellyawilliams.com
 MentalHealth,California,Signal Hill,WEST ,Jana Sadler,https://www.sadlerpsychologicalservices.com/
 MentalHealth,California,Torrance ,WEST ,Jasmynn Smith,https://www.willowtc.com/
 MentalHealth,California,Torrance ,WEST ,Angela Body,https://thehopeandwellnesspartnership.com/
+MentalHealth,California,Torrance ,WEST ,"Loren M Hill, PhD",https://consultingcollective.org
 MentalHealth,California,Upland ,WEST,Dr. Jeshana Avent-Johnson,https://theintimacyseminars.com/
 MentalHealth,California,,WEST,Mobile Crisis Unit ,https://dmh.lacounty.gov/our-services/disaster-services/access-hotline/
 MentalHealth,Colorado,Aurora ,WEST ,Joy Ewing,https://www.joylifecounseling.com/
@@ -1069,31 +1092,8 @@ MentalHealth,US National,,NATIONAL,The Loveland Foundation ,https://thelovelandf
 MentalHealth,US National,,NATIONAL,Boris Lawrence Henson Foundation,https://borislhensonfoundation.org/
 MentalHealth,US National,,NATIONAL,Oshun Family Center ,https://www.oshunfamilycenter.org/
 MentalHealth,US National,,NATIONAL,How to Stop a Panic Attack: 11 Ways to Cope,https://www.healthline.com/health/how-to-stop-a-panic-attack
+MentalHealth,US National,,NATIONAL,The Siwe Project,http://www.thesiweproject.org/
 MentalHealth,US National,,NATIONAL,LGBTQ Psychotherapists of Color (QTOC),https://www.lgbtqpsychotherapistsofcolor.com
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
-MentalHealth,,,,,
 MentalHealth,,,,,
 MentalHealth,,,,,
 MentalHealth,,,,,
@@ -1212,12 +1212,23 @@ MentalHealth,,,,,
 MentalHealth,,,,,
 LocalActivistGroups,Alabama,Montgomery,SOUTH,EQUAL JUSTICE INITIATIVE,https://eji.org/
 LocalActivistGroups,Alaska,,WEST ,Alaska Institute for Justice,https://www.akijp.org/
+LocalActivistGroups,Alaska,,WEST ,Alaska Native Justice Center,http://www.anjc.org/
 LocalActivistGroups,Arizona,Voteria,WEST,ARIZONA CENTER FOR EMPOWERMENT,https://www.empoweraz.org/ 
+LocalActivistGroups,Arizona,,WEST,No More Deaths,https://nomoredeaths.org/en/
+LocalActivistGroups,Arkansas,,SOUTH,Arkansas Justice Collective,http://arkansaslaw.org/
+LocalActivistGroups,Arkansas,,SOUTH,Arkansas Coalition for Peace and Justice,http://arpeaceandjustice.org/partnersinpeace.html
 LocalActivistGroups,Arkansas,,SOUTH,Arkansas Access to Justice,https://arkansasjustice.org/
 LocalActivistGroups,California,Oakland,WEST ,BLACK ORGANIZING PROJECT,http://www.blackorganizingproject.org/
+LocalActivistGroups,California,Los Angeles ,WEST ,Homeboy Industies ,https://homeboyindustries.org
+LocalActivistGroups,California,Los Angeles ,WEST ,100 Black Men Los Angeles,https://www.100bmla.net
+LocalActivistGroups,California,Los Angeles ,WEST ,Anti-Recidivism Coalition,https://antirecidivism.org
+LocalActivistGroups,California,Los Angeles ,WEST ,ACT-LA,http://allianceforcommunitytransit.org
+LocalActivistGroups,California,Los Angeles ,WEST ,Bet Tzedek,https://www.bettzedek.org
+LocalActivistGroups,California,Los Angeles ,WEST ,Advancement Project ,https://www.advancementprojectca.org
 LocalActivistGroups,Colorado,Denver,WEST ,Colorado Juvenile Defender Center,http://cjdc.org/wp/
 LocalActivistGroups,Connecticut,Windsor,NORTHEAST,National Conference for Community and Justice,https://www.nccj.org/
 LocalActivistGroups,Delaware,Wilmington,NORTHEAST,YWCA ,https://www.ywcade.org/
+LocalActivistGroups,"District of Columbia, Washington, DC",,SOUTH,Alliance For Justice,https://www.afj.org/
 LocalActivistGroups,"District of Columbia, Washington, DC",,SOUTH,National Criminal Justice Association,https://www.ncja.org/
 LocalActivistGroups,Florida,,SOUTH,DREAM DEFENDERS,https://dreamdefenders.org/
 LocalActivistGroups,Georgia,Atlanta ,SOUTH,Homeless Black Trans Women Fund,https://www.gofundme.com/f/homeless-black-trans-women-fund?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet
@@ -1290,17 +1301,6 @@ LocalActivistGroups,US National,,NATIONAL,Black Youth Project,https://www.byp100
 LocalActivistGroups,US National,,NATIONAL,The Leadership Conference on Civil & Human Rights,https://civilrights.org/
 LocalActivistGroups,US National,,NATIONAL,Southern Poverty Law Center,https://www.splcenter.org/
 LocalActivistGroups,US National,,NATIONAL,National Orginiaztion for Women,https://now.org/
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
-LocalActivistGroups,,,,,
 LocalActivistGroups,,,,,
 LocalActivistGroups,,,,,
 LocalActivistGroups,,,,,
@@ -1735,68 +1735,68 @@ Petitions,NATIONAL,,NATIONAL,,
 Frontline,NATIONAL,,NATIONAL,Safe Protest,https://www.safeprotest.tips/
 Frontline,NATIONAL,,NATIONAL,M4BL : We Keep Us Safe,https://www.instagram.com/p/CBGowIjBYeZ/?igshid=7fbadc2wzoif
 Frontline,California,Los Angeles,NATIONAL,Travel Tips - LA,https://twitter.com/ProudUSVet4ever/status/1267627356589486080
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
-Frontline,,,,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
+Frontline,,,NATIONAL,,
