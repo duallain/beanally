@@ -2,18 +2,17 @@ Type,State,City,Region,LinkText,LinkValue
 BailOut,Alabama,Montgomery ,SOUTH,MONTGOMERY BAIL OUT,https://givebutter.com/mgmbailout
 BailOut,Alaska,,WEST ,,
 BailOut,Arizona,Tuscon ,WEST,Tuscon Second Chance Community Bail Fund,https://secure.actblue.com/donate/tsccbf
-BailOut,Arkansas,,SOUTH,,
 BailOut,California,,WEST ,Anti Police-Terror Project,http://www.antipoliceterrorproject.org/donate
 BailOut,California,Compton,WEST,Compton Community Garden,www.comptoncommunitygarden.com
 BailOut,California,,WEST ,Bay Area Anti Repression Committee Bail Fund,https://rally.org/ARCbailfund
-BailOut,California,,WEST ,Peoples City Council Freedom Fund,https://www.gofundme.com/f/peoples-city-council-ticket-fund
+BailOut,California,Los Angeles,WEST ,Peoples City Council Freedom Fund,https://www.gofundme.com/f/peoples-city-council-ticket-fund
 BailOut,California,Los Angeles,WEST ,Adventures to Dreams Enrichment,http://www.adventurestodreams.org/
 BailOut,California,Oakland ,WEST ,Bring Nikko Home organized by Talia Crawford,https://www.gofundme.com/f/9b78y-free-nikko?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 BailOut,California,San Diego ,WEST ,DeDe McClure Community Bail Fund,https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet
 BailOut,California,San Diego ,WEST ,Border Angels,https://www.borderangels.org/donate.html
 BailOut,California,San Jose,WEST ,Silicon Valley DSA,https://siliconvalleydsa.org/donations/
 BailOut,California,Victorville,WEST,Social Injustice Resources,https://www.gofundme.com/f/high-desert-community-demonstration-organization?utm_source=customer&utm_medium=sms&utm_campaign=p_cp+share-sheet
-BailOut,California,Watts,WEST,,
+BailOut,California,Watts/ Venice ,WEST,Community Healing Gardens,https://www.communityhealinggardens.org/
 BailOut,Colorado,Denver ,WEST ,Colorado Freedom Fund,https://fundly.com/coloradofreedom?form=popup#
 BailOut,Colorado,Denver ,WEST ,Funds for Protesters Against Police Brutality,https://www.gofundme.com/f/funds-for-protesters-against-police-brutality?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet
 BailOut,Connecticut,New Haven ,NORTHEAST,Connecticut Bail Fund,http://www.ctbailfund.org/
@@ -97,6 +96,7 @@ BailOut,US National,,NATIONAL,National Bail Out Fund- FREE BLACK MAMAS,https://s
 BailOut,US National,,NATIONAL,,https://saveourplanet.org/projects/nqttcn/
 BailOut,US National,,NATIONAL,The Bail Project,https://secure.givelively.org/donate/the-bail-project
 BailOut,US National,,NATIONAL,Commuities United Against Police Brutality,https://www.cuapb.org/what_we_do
+BailOut,,,,,
 BailOut,,,,,
 BailOut,,,,,
 BailOut,,,,,
