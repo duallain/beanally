@@ -13,8 +13,7 @@ jobs:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - run: |
-          function retry {   local retries=$1;   shift   local count=0;   until "$@"; do     exit=$?;     wait=$((2 ** $count));     count=$(($count + 1));     if [ $count -lt $retries ]; then       echo "Retry $count/$retries exited $exit, retrying in $wait seconds...";       sleep $wait;     else       echo "Retry $count/$retries exited $exit, no more retries left.";       return $exit;     fi;   done;   return 0; }
-          retry 3 wget -q -O beanally.csv ${{ secrets.doc_url }}
+          for i in {1..5}; do wget -q -O beanally.csv ${{ secrets.doc_url }} && break || sleep 5; done
       - run: if [[ $(wc -l <beanally.csv) -le 20 ]]; then exit 1; fi
       - name: Commit files
         continue-on-error: true
